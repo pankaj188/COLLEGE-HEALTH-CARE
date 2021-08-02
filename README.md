@@ -36,3 +36,9 @@ Doctors(Can be registered only through superuser):
 - email : raghavan@vit.ac.in     password : sharma.1@vit.ac.in
 
 ----------------------------
+
+
+<img width="1419" alt="p" src="https://user-images.githubusercontent.com/67761234/127911975-fef13da4-284d-4c09-8506-9d9fb314d57f.png">
+<img width="1432" alt="p1" src="https://user-images.githubusercontent.com/67761234/127912011-c4852996-12bf-455b-99cd-e934348c89bf.png">
+<img width="1433" alt="p2" src="https://user-images.githubusercontent.com/67761234/127912041-864ea438-ee25-45e6-80f4-f18e720e024a.png">
+<img width="1424" alt="2" src="https://user-images.githubusercontent.com/67761234/127912066-4764dae3-4b9c-4ab5-8fb8-3f4d1c37d729.png"> 
