@@ -6,8 +6,6 @@ from doctors and check availability of medicines in medical store .
 
 ----------------------------
 
-----------------------------
-
 TECHNOLOGIES USED
 ----------------------------
 
